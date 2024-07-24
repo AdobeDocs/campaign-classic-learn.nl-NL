@@ -5,10 +5,10 @@ user-guide-title: Tutorials voor Adobe Campaign Classic v7
 user-guide-description: Video's en tutorials voor Adobe Campaign Classic v7.
 breadcrumb-title: Tutorials voor Campaign Classic v7
 auto-video-transcripts: true
-source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
+source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '415'
+ht-degree: 98%
 
 ---
 
@@ -47,6 +47,8 @@ ht-degree: 0%
       + [Problemen met de verzending van e-mail oplossen](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Bijlagen toevoegen aan een e-mailaflevering](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [De ROI van e-mail en aanbevolen methoden maximaliserenvoor hernieuwde betrokkenheid van leden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)
+      + [Gids voor aanbevolen methoden voor leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
    + Sms-kanaal {#sms-channel}
       + [Een sms-levering maken](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Pushkanaal {#push-channel}
@@ -106,5 +108,4 @@ ht-degree: 0%
 + [Problemen oplossen in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=nl)
 + Strategie en leiderschap{#strategy}
    + [Tien best practices voor succes met Adobe Campaign voor marketeers](/help/strategy/10-best-practices-for-marketers.md)
-   + [De ROI van e-mail en aanbevolen methoden maximaliserenvoor hernieuwde betrokkenheid van leden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)
-   + [Gids voor aanbevolen methoden voor leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
+   + 
