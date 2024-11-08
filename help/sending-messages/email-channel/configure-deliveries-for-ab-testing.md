@@ -7,13 +7,13 @@ doc-type: feature video
 activity: use
 team: Customer Care
 role: User
-level: Beginner
+level: Intermediate
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 3c2b2eb0-7f06-4e9f-8a94-cc26729dc9b1
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 94%
+source-wordcount: '32'
+ht-degree: 100%
 
 ---
 

@@ -5,11 +5,12 @@ feature: Personalization
 jira: KT-1559
 doc-type: feature video
 activity: use
+level: Intermediate
 team: TM
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 66%
+source-wordcount: '252'
+ht-degree: 70%
 
 ---
 
@@ -43,4 +44,4 @@ Door voorwaardelijke-contentvelden te configureren kunt u geavanceerde personali
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
-Voor meer informatie over Personalisatie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+Meer over Personalization leren, zie de [ productdocumentatie ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

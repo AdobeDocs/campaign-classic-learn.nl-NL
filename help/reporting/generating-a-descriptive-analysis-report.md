@@ -10,15 +10,15 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 71%
+source-wordcount: '33'
+ht-degree: 75%
 
 ---
 
 # Een beschrijvend analyserapport genereren
 
-Leer hoe u een [!UICONTROL descriptive analysis report] vanuit een workflow.
+Leer hoe u een [!UICONTROL descriptive analysis report] genereert op basis van een workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12&learn=on){transcript=true}

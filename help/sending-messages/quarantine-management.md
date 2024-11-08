@@ -6,14 +6,14 @@ jira: KT-11919
 doc-type: feature video
 activity: use
 role: User
-level: Beginner
+level: Intermediate
 team: Support
 last-substantial-update: 2023-03-28T00:00:00Z
 exl-id: 1273792a-e778-4a85-8443-2e5a872ea2e8
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 94%
+source-wordcount: '36'
+ht-degree: 100%
 
 ---
 
