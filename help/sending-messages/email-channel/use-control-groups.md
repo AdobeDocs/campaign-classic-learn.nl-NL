@@ -7,10 +7,10 @@ thumbnail: 330955.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Intermediate
-level: Beginner
+role: User
+level: Intermediate
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
+source-git-commit: 53682271ea3bc8655f3ec2621e67aadf4befd0ad
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 77%
