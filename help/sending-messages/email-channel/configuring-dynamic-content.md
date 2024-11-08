@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: WWFRE
 role: User
-level: Beginner
+level: Intermediate
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: 519cdef03ebb656ee8425a1b8a93c204f202b819
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 70%
+source-wordcount: '57'
+ht-degree: 84%
 
 ---
 
@@ -23,4 +23,4 @@ Begrijp de verschillende soorten dynamische content en leer personalisatieblokke
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
 
-Zie voor meer informatie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en).
+Voor meer informatie gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en).
