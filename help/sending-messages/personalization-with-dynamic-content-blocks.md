@@ -44,4 +44,4 @@ Door voorwaardelijke-contentvelden te configureren kunt u geavanceerde personali
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
-Meer over Personalization leren, zie de [ productdocumentatie ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+Meer over Personalization leren, zie de [ productdocumentatie ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=nl-NL).

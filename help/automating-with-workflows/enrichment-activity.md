@@ -24,4 +24,4 @@ Leer hoe u een verrijkingsactiviteit kunt configureren op basis van het levering
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
 
-Voor meer informatie over verrijking raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)
+Voor meer informatie over verrijking raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=nl-NL)

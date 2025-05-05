@@ -32,4 +32,4 @@ U leert hoe u het volgende kunt doen:
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
-Voor meer informatie over hoe te om toegang tot Snowflake te vormen zie [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).
+Voor meer informatie over hoe te om toegang tot Snowflake te vormen zie [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=nl-NL#installing-campaign-classic).

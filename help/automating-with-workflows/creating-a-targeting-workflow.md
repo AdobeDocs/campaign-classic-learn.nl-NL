@@ -22,5 +22,5 @@ Adobe Campaign maakt gebruik van workflows voor het uitvoeren van targetingcampa
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
-Zie de documentatie [over workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-en [over doelgerichte activiteiten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) voor meer informatie .
+Zie de documentatie [over workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=nl-NL)
+en [over doelgerichte activiteiten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=nl-NL) voor meer informatie .

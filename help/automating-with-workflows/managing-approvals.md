@@ -24,4 +24,4 @@ Leer hoe u goedkeuringen en een campagne instelt en hoe u onderscheid kunt maken
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
 
-Raadpleeg voor meer informatie over het definiëren van goedkeuringen de [Productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).
+Raadpleeg voor meer informatie over het definiëren van goedkeuringen de [Productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=nl-NL#sending-emails).

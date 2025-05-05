@@ -23,4 +23,4 @@ Leer hoe u kunt controleren of het mobiele-appkanaal op uw apparaat is geïnstal
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
-Raadpleeg voor meer informatie over de configuratie van het mobiele toepassingskanaal de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).
+Raadpleeg voor meer informatie over de configuratie van het mobiele toepassingskanaal de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=nl-NL#installing-package-ios).
