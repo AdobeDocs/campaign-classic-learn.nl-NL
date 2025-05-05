@@ -21,4 +21,4 @@ ht-degree: 96%
 
 Leer hoe u bijlagen toevoegt aan een e-maillevering en hoe u verschillende typen e-mailbijlagen configureert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452995?quality=12&learn=on&captions=dut){transcript=true}

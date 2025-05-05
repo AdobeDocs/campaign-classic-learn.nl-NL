@@ -19,7 +19,7 @@ ht-degree: 43%
 
 Leer hoe u een levering kunt personaliseren met dynamische content die wordt geleverd door Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453263?quality=12&learn=on&captions=dut){transcript=true}
 
 >[!NOTE]
 > De video is opgenomen in campagne V8, de functionaliteit is hetzelfde voor zowel Campaign Classic V7 als Campagne V8.

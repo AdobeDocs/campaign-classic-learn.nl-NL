@@ -18,4 +18,4 @@ ht-degree: 92%
 
 Leren hoe u publicatiefouten kunt oplossen voor gebruikers die geen beheerder zijn
 
->[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436713?quality=12&learn=on&captions=dut){transcript=true}

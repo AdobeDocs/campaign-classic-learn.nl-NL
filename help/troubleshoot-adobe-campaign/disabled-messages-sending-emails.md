@@ -17,4 +17,4 @@ ht-degree: 93%
 # Uitgeschakelde berichten die e-mails activeren
 
 Leren hoe u e-mailberichten van uitgeschakelde berichten kunt stoppen
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437117?quality=12&learn=on&captions=dut){transcript=true}

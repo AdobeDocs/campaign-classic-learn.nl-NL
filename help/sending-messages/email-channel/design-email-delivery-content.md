@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Meer informatie over content voor e-mailaflevering configureren, personaliseren en testen. Inzichten in sjablonen gebruiken, afbeeldingen uploaden, emoticons toevoegen en barcodes en QR-codes insluiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453868?learn=on&captions=dut){transcript=true}

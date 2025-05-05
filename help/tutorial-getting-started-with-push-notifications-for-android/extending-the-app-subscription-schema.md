@@ -21,7 +21,7 @@ ht-degree: 44%
 
 Leer hoe u de [!UICONTROL app subscription] schema om verpersoonlijkingswaarden op te slaan [!DNL Campaign] ontvangt van een mobiele app.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445558?quality=12&learn=on&captions=dut){transcript=true}
 
 **Volgende stap**
 

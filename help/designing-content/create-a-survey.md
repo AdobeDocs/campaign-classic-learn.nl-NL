@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u een enquête maakt in Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448079/?learn=on&captions=dut){transcript=true}

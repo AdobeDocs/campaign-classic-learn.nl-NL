@@ -18,4 +18,4 @@ ht-degree: 92%
 
 Leren hoe u XML-gegevens voor levering ophaalt
 
->[!VIDEO](https://video.tv.adobe.com/v/335949?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436724?quality=12&learn=on&captions=dut){transcript=true}

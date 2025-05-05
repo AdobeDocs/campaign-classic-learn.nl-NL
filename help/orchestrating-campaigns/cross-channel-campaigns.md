@@ -23,4 +23,4 @@ In een cross-channel campagne wordt één marketingmededeling verzonden via vers
 
 Leer hoe u een cross-channel campagne kunt maken met gebruik van e-mail en directe-mailleveringen op basis van de reactie van de klant op de eerste levering.
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453527?quality=12&learn=on&captions=dut){transcript=true}

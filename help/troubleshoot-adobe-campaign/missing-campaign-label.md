@@ -17,4 +17,4 @@ ht-degree: 93%
 
 Leren hoe u het ontbrekende campagnelabel in Analytics kunt corrigeren
 
->[!VIDEO](https://video.tv.adobe.com/v/335983?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436812?quality=12&learn=on&captions=dut){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 93%
 # Problemen met de load balancer
 
 Leren hoe u problemen met de load balancer kunt verhelpen bij het opnieuw opstarten van een instantie
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437497?quality=12&learn=on&captions=dut){transcript=true}

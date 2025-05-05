@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Leer hoe u bestemmingspagina&#39;s maakt en configureert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448912/?quality=12&learn=on&captions=dut){transcript=true}
 
 Zie de gedetailleerde documentatie over [Een openingspagina maken](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=nl-NL).

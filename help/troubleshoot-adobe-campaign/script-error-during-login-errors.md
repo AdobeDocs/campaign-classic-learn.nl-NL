@@ -18,4 +18,4 @@ ht-degree: 95%
 
 Leer hoe u fouten of waarschuwingen kunt corrigeren die worden weergegeven tijdens het aanmelden bij Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436220?quality=12&learn=on&captions=dut){transcript=true}

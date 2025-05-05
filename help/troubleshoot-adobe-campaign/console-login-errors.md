@@ -18,4 +18,4 @@ ht-degree: 92%
 
 Leren hoe u fouten verhelpt die tijdens het aanmelden bij de console zijn aangetroffen
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437772?quality=12&learn=on&captions=dut){transcript=true}

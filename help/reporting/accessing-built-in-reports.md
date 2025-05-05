@@ -21,4 +21,4 @@ ht-degree: 51%
 
 Begrijp ingebouwde rapportering en analyse in Campaign Classic en leer hoe te om een leveringsrapport te produceren.
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449492?quality=12&learn=on&captions=dut){transcript=true}

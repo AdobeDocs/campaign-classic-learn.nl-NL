@@ -18,4 +18,4 @@ ht-degree: 96%
 
 Leer hoe u het aantal campagneworkflows vergroot dat parallel op een versie kan worden uitgevoerd.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436580?quality=12&learn=on&captions=dut){transcript=true}

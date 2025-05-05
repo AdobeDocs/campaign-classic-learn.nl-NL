@@ -22,6 +22,6 @@ ht-degree: 60%
 Met goedkeuringen kunnen operators beslissingen nemen over een workflow of de voortzetting van de uitvoering bevestigen.
 Leer hoe u goedkeuringen en een campagne instelt en hoe u onderscheid kunt maken tussen leverings- en workflowgoedkeuringen.
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452619?quality=12&learn=on&captions=dut){transcript=true}
 
 Raadpleeg voor meer informatie over het definiëren van goedkeuringen de [Productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=nl-NL#sending-emails).

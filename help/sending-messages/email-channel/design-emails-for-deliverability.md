@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Leer het best practices voor aflevering toepassen op uw campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452564?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Aanvullende bronnen
 

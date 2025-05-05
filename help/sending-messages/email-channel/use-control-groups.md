@@ -21,7 +21,7 @@ ht-degree: 77%
 
 Begrijp het concept van controlegroepen en leer een controlegroep gebruiken voor uw verzending.
 
->[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449976?quality=12&learn=on&captions=dut){transcript=true}
 
 >[!IMPORTANT]
 >Als er meerdere leveringen in de targetingworkflow zijn, moet u de controlegroepinstellingen op het leveringsniveau evenals in de campagne-instellingen toelaten.

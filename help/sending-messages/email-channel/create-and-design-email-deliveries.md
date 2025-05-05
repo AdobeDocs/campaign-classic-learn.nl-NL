@@ -21,6 +21,6 @@ ht-degree: 96%
 
 Begrijp het proces van het maken van een e-mailverzending en leer e-mailcontent ontwerpen en personaliseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447783?quality=12&learn=on&captions=dut){transcript=true}
 
 Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=nl) voor meer informatie

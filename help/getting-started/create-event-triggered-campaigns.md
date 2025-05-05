@@ -21,4 +21,4 @@ ht-degree: 94%
 
 Leer hoe u een campagne maakt die door een gebeurtenis wordt geactiveerd en krijg inzicht in het gebruik ervan.
 
->[!VIDEO](https://video.tv.adobe.com/v/330920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451877?quality=12&learn=on&captions=dut){transcript=true}

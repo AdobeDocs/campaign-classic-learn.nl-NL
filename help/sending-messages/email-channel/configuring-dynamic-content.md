@@ -21,6 +21,6 @@ ht-degree: 84%
 
 Begrijp de verschillende soorten dynamische content en leer personalisatieblokken en voorwaardelijke verklaringen maken en toepassen op een levering.
 
->[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453342?quality=12&learn=on&captions=dut){transcript=true}
 
 Voor meer informatie gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=nl-NL).
