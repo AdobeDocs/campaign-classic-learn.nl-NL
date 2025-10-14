@@ -26,4 +26,4 @@ In deze video wordt uitgelegd hoe u vermoeidheidsbeheer in Adobe Campaign Classi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
 
-Bezoek de productdocumentatie om meer over [ campagne typologies ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=nl) te leren.
+Bezoek de productdocumentatie om meer over [&#x200B; campagne typologies &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=nl) te leren.

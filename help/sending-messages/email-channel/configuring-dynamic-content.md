@@ -23,4 +23,4 @@ Begrijp de verschillende soorten dynamische content en leer personalisatieblokke
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453342?quality=12&learn=on&captions=dut){transcript=true}
 
-Voor meer informatie gelieve te zien de [ productdocumentatie ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=nl-NL).
+Voor meer informatie gelieve te zien de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=nl-NL).
