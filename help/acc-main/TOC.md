@@ -8,14 +8,14 @@ auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 98%
+ht-degree: 92%
 
 ---
 
 
 # Tutorials voor Adobe Campaign Classic v7 {#tutorials}
 
-+ [Adobe Campaign Classic V7 - Tutorials](/help/overview.md)
++ [Adobe Campaign Classic V7 - Zelfstudies](/help/overview.md)
 + Aan de slag {#getting-started}
    + [Inleiding tot Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [De Adobe Campaign-client installeren en instellen](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -49,9 +49,9 @@ ht-degree: 98%
       + [E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [De ROI van e-mail en aanbevolen methoden maximaliserenvoor hernieuwde betrokkenheid van leden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)
       + [Gids voor aanbevolen methoden voor leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
-   + Sms-kanaal {#sms-channel}
+   + SMS-kanaal {#sms-channel}
       + [Een sms-levering maken](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
-   + Pushkanaal {#push-channel}
+   + Push-kanaal {#push-channel}
       + [Het mobiele-appkanaal installeren](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Pushkanaal configureren met de Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Aan de slag met pushmeldingen voor Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=nl)
@@ -61,10 +61,10 @@ ht-degree: 98%
       + [Een leveringssjabloon configureren](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Eigenschappen van leveringssjablonen instellen](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Een ad-hocsjabloon voor e-maillevering implementeren](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Vermoeidheidsbeheer{#fatigue-management}
+   + Moeheidsbeheer{#fatigue-management}
       + [Typologieregels gebruiken](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters gebruiken](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + Berichten controleren {#monitoring-messages}
+   + Monitoringberichten {#monitoring-messages}
       + [Quarantainebeheer begrijpen](/help/sending-messages/quarantine-management.md)
    + [Lidmaatschapsservices configureren en beheren](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Campagnes orkestreren {#orchestration}
@@ -72,7 +72,7 @@ ht-degree: 98%
    + [Inleiding tot multi-channel en cross-channel campagnes](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Multi-channel campagnes maken](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Cross-channel campagnes maken](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ Rapporteren {#reporting}
++ Rapport {#reporting}
    + [Toegang tot ingebouwde rapporten](/help/reporting/accessing-built-in-reports.md)
    + [Een beschrijvend analyserapport genereren](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatiseren met workflow{#automating-with-workflows}
@@ -100,7 +100,7 @@ ht-degree: 98%
 + Integreren {#integrating}
    + [Integreren met Adobe Target](/help/integrations/target-integration.md)
    + [Integreren met Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Beheren {#administrating}
++ Beheer {#administrating}
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=nl){target="_blank"}
    + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
    + Toegang tot een externe database (FDA) {#fda}
