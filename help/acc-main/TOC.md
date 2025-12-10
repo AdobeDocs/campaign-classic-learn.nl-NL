@@ -6,16 +6,16 @@ user-guide-description: Video's en tutorials voor Adobe Campaign Classic v7.
 breadcrumb-title: Tutorials voor Campaign Classic v7
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 
 # Tutorials voor Adobe Campaign Classic v7 {#tutorials}
 
-+ [Adobe Campaign Classic V7 - Zelfstudies](/help/overview.md)
++ [Adobe Campaign Classic V7-tutorials](/help/overview.md)
 + Aan de slag {#getting-started}
    + [Inleiding tot Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [De Adobe Campaign-client installeren en instellen](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -25,7 +25,7 @@ ht-degree: 92%
    + [Een campagne en een e-mail maken](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Profielen targeten in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Door gebeurtenis geactiveerde campagnes maken](/help/getting-started/create-event-triggered-campaigns.md)
-+ Profielbeheer {#profile-management}
++ Profielmanagement {#profile-management}
    + [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
    + [Profielen importeren](/help/data-management/importing-profiles.md)
    + [Een lijst met ontvangers maken](/help/profile-management/creating-a-list-of-recipients.md)
@@ -49,9 +49,9 @@ ht-degree: 92%
       + [E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [De ROI van e-mail en aanbevolen methoden maximaliserenvoor hernieuwde betrokkenheid van leden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)
       + [Gids voor aanbevolen methoden voor leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
-   + SMS-kanaal {#sms-channel}
+   + Sms-kanaal {#sms-channel}
       + [Een sms-levering maken](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
-   + Push-kanaal {#push-channel}
+   + Pushkanaal {#push-channel}
       + [Het mobiele-appkanaal installeren](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Pushkanaal configureren met de Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Aan de slag met pushmeldingen voor Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=nl)
@@ -64,7 +64,7 @@ ht-degree: 92%
    + Moeheidsbeheer{#fatigue-management}
       + [Typologieregels gebruiken](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters gebruiken](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + Monitoringberichten {#monitoring-messages}
+   + Berichten controleren {#monitoring-messages}
       + [Quarantainebeheer begrijpen](/help/sending-messages/quarantine-management.md)
    + [Lidmaatschapsservices configureren en beheren](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Campagnes orkestreren {#orchestration}
@@ -72,7 +72,7 @@ ht-degree: 92%
    + [Inleiding tot multi-channel en cross-channel campagnes](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Multi-channel campagnes maken](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Cross-channel campagnes maken](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ Rapport {#reporting}
++ Rapporteren {#reporting}
    + [Toegang tot ingebouwde rapporten](/help/reporting/accessing-built-in-reports.md)
    + [Een beschrijvend analyserapport genereren](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatiseren met workflow{#automating-with-workflows}
@@ -100,11 +100,11 @@ ht-degree: 92%
 + Integreren {#integrating}
    + [Integreren met Adobe Target](/help/integrations/target-integration.md)
    + [Integreren met Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Beheer {#administrating}
++ Beheren {#administrating}
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=nl){target="_blank"}
    + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
    + Toegang tot een externe database (FDA) {#fda}
       + [Beheer van big data op [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Problemen oplossen in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=nl)
-+ Strategie en leiderschap{#strategy}
++ Strategie &amp; leiderschap{#strategy}
    + [Tien best practices voor succes met Adobe Campaign voor marketeers](/help/strategy/10-best-practices-for-marketers.md)
