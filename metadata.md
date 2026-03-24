@@ -6,7 +6,7 @@ solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
+git-repo: https://github.com/AdobeDocs/campaign-classic-learn.nl-NL
 index: true
 source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
 workflow-type: tm+mt
