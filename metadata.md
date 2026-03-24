@@ -6,33 +6,33 @@ solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-classic-learn.nl-NL
+git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
 index: true
-source-git-commit: 8b3e7a5dcc8b55cbc0fdb5c4220dc1329e320259
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 0%
 
 ---
 
 
 # Metagegevens voor intern gebruik
 
-Het bestand metadata.md bevat metagegevens op niveau van de repository die worden doorgegeven aan TOC.md-bestanden van de gebruikershandleiding in de repository. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
+Het bestand metadata.md bevat metagegevens op repo-niveau die worden doorgegeven aan de bestanden in de repo in de gebruikershandleiding TOC.md. Als u de inhoud metadata.md voor om het even welke gebruikersgids wilt veranderen, doe dit in om het even welk dossier van TOC.md.
 
-| metadata | wat het doet |
+| metagegevens | wat het doet |
 |--- |--- |
-| solution-title | Gebruikt in artikelkoptekst als koppeling |
-| solution-hub-url | Opent helpx-hubpagina |
-| solution-icon | Hiermee wordt het oplossingspictogram weergegeven naast de titel van de oplossing. Nog niet geïmplementeerd |
-| getting-started-url | Koppeling naar pagina om aan de slag te gaan met helpx |
-| tutorials-url | Koppeling naar videotutorials: helpx-tutorials of KT-tutorials |
-| mini-toc-levels | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrail. standaard is dit 2 |
-| git-repo | Hiermee wordt de locatie van de primaire repository voor intern gebruik opgegeven |
+| titel oplossing | Gebruikt in artikelkoptekst als koppeling |
+| oplossing-hub-url | Opent helpx-hubpagina |
+| oplossingspictogram | Hiermee wordt het oplossingspictogram weergegeven naast de titel van de oplossing. Nog niet geïmplementeerd |
+| aan de slag-url | Aan de slag met Help-pagina koppelen |
+| zelfstudies-url | Koppeling maken naar videozelfstudies: helpx-zelfstudies of KT-zelfstudies |
+| minitoc-niveaus | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrails. default is 2 |
+| git-repo | Hiermee geeft u de locatie op van het hoofdrepo voor intern gebruik |
 
-In TOC.md-bestand
+In bestand TOC.md
 
-| metadata | wat het doet |
+| metagegevens | wat het doet |
 |--- |--- |
 | user-guide-title | Gebruikt in artikelkoptekst als koppeling |
-| user-guide-url | Opent helpx-hubpagina |
+| gebruikershandleiding-url | Opent helpx-hubpagina |
